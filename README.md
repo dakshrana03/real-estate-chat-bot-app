@@ -17,7 +17,7 @@ Clone the repository:
 
 bash
 Copy code
-git clone https://github.com/safak/full-stack-real-estate-app.git
+git clone https://github.com/dakshrana03/real-estate-chat-bot-app.git
 Install backend dependencies:
 
 bash
@@ -45,7 +45,7 @@ bash
 Copy code
 npm start
 Demo
-For a live demo, visit the website: [Insert Demo Link]
+For a live demo, visit the website: [Demo Link]
 
 Support & Contribution
 Contribute: Feel free to fork this project and create pull requests.
